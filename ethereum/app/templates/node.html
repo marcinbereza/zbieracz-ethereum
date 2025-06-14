@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Jesteś na stronie wierzchołka: {{ node.id }}</h2>
+    {% if links %}
+    <h3>Linki wychodzące:</h3>
+    <ul>
+      {% for link in links %}
+      <li><a href="/{{ link.href }}">{{ link.id }}</a></li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>Brak linków wychodzących.</p>
+    {% endif %}
+    <h3><p>Skarb: {{ node.value }}</p></h3>
+  </body>
+</html>
