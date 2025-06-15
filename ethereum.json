@@ -1,0 +1,4005 @@
+{
+  "suma": 51305,
+  "wierzcho\u0142ki": [
+    {
+      "node": 0,
+      "ethereum": 13
+    },
+    {
+      "node": 91,
+      "ethereum": 71
+    },
+    {
+      "node": 188,
+      "ethereum": 54
+    },
+    {
+      "node": 216,
+      "ethereum": 71
+    },
+    {
+      "node": 458,
+      "ethereum": 72
+    },
+    {
+      "node": 604,
+      "ethereum": 39
+    },
+    {
+      "node": 729,
+      "ethereum": 24
+    },
+    {
+      "node": 733,
+      "ethereum": 37
+    },
+    {
+      "node": 735,
+      "ethereum": 85
+    },
+    {
+      "node": 881,
+      "ethereum": 93
+    },
+    {
+      "node": 980,
+      "ethereum": 28
+    },
+    {
+      "node": 4,
+      "ethereum": 41
+    },
+    {
+      "node": 7,
+      "ethereum": 28
+    },
+    {
+      "node": 190,
+      "ethereum": 19
+    },
+    {
+      "node": 497,
+      "ethereum": 42
+    },
+    {
+      "node": 580,
+      "ethereum": 44
+    },
+    {
+      "node": 611,
+      "ethereum": 74
+    },
+    {
+      "node": 447,
+      "ethereum": 18
+    },
+    {
+      "node": 463,
+      "ethereum": 66
+    },
+    {
+      "node": 529,
+      "ethereum": 58
+    },
+    {
+      "node": 599,
+      "ethereum": 53
+    },
+    {
+      "node": 740,
+      "ethereum": 98
+    },
+    {
+      "node": 756,
+      "ethereum": 72
+    },
+    {
+      "node": 817,
+      "ethereum": 68
+    },
+    {
+      "node": 279,
+      "ethereum": 67
+    },
+    {
+      "node": 311,
+      "ethereum": 51
+    },
+    {
+      "node": 429,
+      "ethereum": 93
+    },
+    {
+      "node": 537,
+      "ethereum": 17
+    },
+    {
+      "node": 592,
+      "ethereum": 69
+    },
+    {
+      "node": 610,
+      "ethereum": 40
+    },
+    {
+      "node": 687,
+      "ethereum": 69
+    },
+    {
+      "node": 951,
+      "ethereum": 44
+    },
+    {
+      "node": 996,
+      "ethereum": 87
+    },
+    {
+      "node": 225,
+      "ethereum": 20
+    },
+    {
+      "node": 284,
+      "ethereum": 57
+    },
+    {
+      "node": 310,
+      "ethereum": 19
+    },
+    {
+      "node": 523,
+      "ethereum": 66
+    },
+    {
+      "node": 743,
+      "ethereum": 63
+    },
+    {
+      "node": 752,
+      "ethereum": 48
+    },
+    {
+      "node": 910,
+      "ethereum": 15
+    },
+    {
+      "node": 994,
+      "ethereum": 57
+    },
+    {
+      "node": 34,
+      "ethereum": 4
+    },
+    {
+      "node": 89,
+      "ethereum": 97
+    },
+    {
+      "node": 147,
+      "ethereum": 64
+    },
+    {
+      "node": 163,
+      "ethereum": 89
+    },
+    {
+      "node": 300,
+      "ethereum": 2
+    },
+    {
+      "node": 626,
+      "ethereum": 46
+    },
+    {
+      "node": 768,
+      "ethereum": 85
+    },
+    {
+      "node": 818,
+      "ethereum": 59
+    },
+    {
+      "node": 916,
+      "ethereum": 47
+    },
+    {
+      "node": 970,
+      "ethereum": 86
+    },
+    {
+      "node": 23,
+      "ethereum": 72
+    },
+    {
+      "node": 182,
+      "ethereum": 37
+    },
+    {
+      "node": 302,
+      "ethereum": 70
+    },
+    {
+      "node": 603,
+      "ethereum": 72
+    },
+    {
+      "node": 705,
+      "ethereum": 59
+    },
+    {
+      "node": 811,
+      "ethereum": 99
+    },
+    {
+      "node": 850,
+      "ethereum": 100
+    },
+    {
+      "node": 52,
+      "ethereum": 23
+    },
+    {
+      "node": 404,
+      "ethereum": 37
+    },
+    {
+      "node": 734,
+      "ethereum": 28
+    },
+    {
+      "node": 749,
+      "ethereum": 71
+    },
+    {
+      "node": 933,
+      "ethereum": 19
+    },
+    {
+      "node": 183,
+      "ethereum": 55
+    },
+    {
+      "node": 195,
+      "ethereum": 20
+    },
+    {
+      "node": 292,
+      "ethereum": 4
+    },
+    {
+      "node": 446,
+      "ethereum": 22
+    },
+    {
+      "node": 789,
+      "ethereum": 63
+    },
+    {
+      "node": 871,
+      "ethereum": 61
+    },
+    {
+      "node": 944,
+      "ethereum": 50
+    },
+    {
+      "node": 362,
+      "ethereum": 37
+    },
+    {
+      "node": 369,
+      "ethereum": 87
+    },
+    {
+      "node": 462,
+      "ethereum": 52
+    },
+    {
+      "node": 671,
+      "ethereum": 99
+    },
+    {
+      "node": 878,
+      "ethereum": 95
+    },
+    {
+      "node": 914,
+      "ethereum": 32
+    },
+    {
+      "node": 104,
+      "ethereum": 89
+    },
+    {
+      "node": 107,
+      "ethereum": 32
+    },
+    {
+      "node": 600,
+      "ethereum": 83
+    },
+    {
+      "node": 799,
+      "ethereum": 19
+    },
+    {
+      "node": 942,
+      "ethereum": 87
+    },
+    {
+      "node": 984,
+      "ethereum": 18
+    },
+    {
+      "node": 84,
+      "ethereum": 58
+    },
+    {
+      "node": 272,
+      "ethereum": 11
+    },
+    {
+      "node": 441,
+      "ethereum": 27
+    },
+    {
+      "node": 553,
+      "ethereum": 26
+    },
+    {
+      "node": 555,
+      "ethereum": 31
+    },
+    {
+      "node": 668,
+      "ethereum": 88
+    },
+    {
+      "node": 690,
+      "ethereum": 29
+    },
+    {
+      "node": 695,
+      "ethereum": 20
+    },
+    {
+      "node": 870,
+      "ethereum": 58
+    },
+    {
+      "node": 31,
+      "ethereum": 32
+    },
+    {
+      "node": 505,
+      "ethereum": 35
+    },
+    {
+      "node": 720,
+      "ethereum": 15
+    },
+    {
+      "node": 731,
+      "ethereum": 17
+    },
+    {
+      "node": 60,
+      "ethereum": 19
+    },
+    {
+      "node": 101,
+      "ethereum": 54
+    },
+    {
+      "node": 223,
+      "ethereum": 55
+    },
+    {
+      "node": 196,
+      "ethereum": 91
+    },
+    {
+      "node": 258,
+      "ethereum": 33
+    },
+    {
+      "node": 342,
+      "ethereum": 52
+    },
+    {
+      "node": 608,
+      "ethereum": 43
+    },
+    {
+      "node": 674,
+      "ethereum": 54
+    },
+    {
+      "node": 35,
+      "ethereum": 47
+    },
+    {
+      "node": 703,
+      "ethereum": 8
+    },
+    {
+      "node": 816,
+      "ethereum": 80
+    },
+    {
+      "node": 824,
+      "ethereum": 52
+    },
+    {
+      "node": 889,
+      "ethereum": 56
+    },
+    {
+      "node": 339,
+      "ethereum": 56
+    },
+    {
+      "node": 359,
+      "ethereum": 94
+    },
+    {
+      "node": 527,
+      "ethereum": 97
+    },
+    {
+      "node": 781,
+      "ethereum": 80
+    },
+    {
+      "node": 840,
+      "ethereum": 92
+    },
+    {
+      "node": 83,
+      "ethereum": 52
+    },
+    {
+      "node": 417,
+      "ethereum": 15
+    },
+    {
+      "node": 479,
+      "ethereum": 94
+    },
+    {
+      "node": 637,
+      "ethereum": 70
+    },
+    {
+      "node": 759,
+      "ethereum": 16
+    },
+    {
+      "node": 848,
+      "ethereum": 73
+    },
+    {
+      "node": 953,
+      "ethereum": 60
+    },
+    {
+      "node": 960,
+      "ethereum": 38
+    },
+    {
+      "node": 989,
+      "ethereum": 35
+    },
+    {
+      "node": 85,
+      "ethereum": 74
+    },
+    {
+      "node": 149,
+      "ethereum": 34
+    },
+    {
+      "node": 226,
+      "ethereum": 69
+    },
+    {
+      "node": 239,
+      "ethereum": 8
+    },
+    {
+      "node": 253,
+      "ethereum": 82
+    },
+    {
+      "node": 387,
+      "ethereum": 5
+    },
+    {
+      "node": 991,
+      "ethereum": 61
+    },
+    {
+      "node": 242,
+      "ethereum": 11
+    },
+    {
+      "node": 331,
+      "ethereum": 56
+    },
+    {
+      "node": 335,
+      "ethereum": 85
+    },
+    {
+      "node": 425,
+      "ethereum": 15
+    },
+    {
+      "node": 995,
+      "ethereum": 58
+    },
+    {
+      "node": 24,
+      "ethereum": 44
+    },
+    {
+      "node": 42,
+      "ethereum": 50
+    },
+    {
+      "node": 62,
+      "ethereum": 56
+    },
+    {
+      "node": 170,
+      "ethereum": 8
+    },
+    {
+      "node": 193,
+      "ethereum": 58
+    },
+    {
+      "node": 345,
+      "ethereum": 24
+    },
+    {
+      "node": 530,
+      "ethereum": 95
+    },
+    {
+      "node": 721,
+      "ethereum": 89
+    },
+    {
+      "node": 784,
+      "ethereum": 32
+    },
+    {
+      "node": 845,
+      "ethereum": 40
+    },
+    {
+      "node": 119,
+      "ethereum": 31
+    },
+    {
+      "node": 198,
+      "ethereum": 94
+    },
+    {
+      "node": 442,
+      "ethereum": 91
+    },
+    {
+      "node": 736,
+      "ethereum": 17
+    },
+    {
+      "node": 227,
+      "ethereum": 87
+    },
+    {
+      "node": 256,
+      "ethereum": 42
+    },
+    {
+      "node": 282,
+      "ethereum": 7
+    },
+    {
+      "node": 510,
+      "ethereum": 20
+    },
+    {
+      "node": 122,
+      "ethereum": 15
+    },
+    {
+      "node": 693,
+      "ethereum": 28
+    },
+    {
+      "node": 81,
+      "ethereum": 25
+    },
+    {
+      "node": 630,
+      "ethereum": 22
+    },
+    {
+      "node": 439,
+      "ethereum": 93
+    },
+    {
+      "node": 488,
+      "ethereum": 37
+    },
+    {
+      "node": 557,
+      "ethereum": 63
+    },
+    {
+      "node": 587,
+      "ethereum": 29
+    },
+    {
+      "node": 879,
+      "ethereum": 50
+    },
+    {
+      "node": 924,
+      "ethereum": 24
+    },
+    {
+      "node": 106,
+      "ethereum": 45
+    },
+    {
+      "node": 330,
+      "ethereum": 6
+    },
+    {
+      "node": 595,
+      "ethereum": 20
+    },
+    {
+      "node": 719,
+      "ethereum": 49
+    },
+    {
+      "node": 839,
+      "ethereum": 35
+    },
+    {
+      "node": 103,
+      "ethereum": 65
+    },
+    {
+      "node": 208,
+      "ethereum": 38
+    },
+    {
+      "node": 461,
+      "ethereum": 25
+    },
+    {
+      "node": 556,
+      "ethereum": 33
+    },
+    {
+      "node": 582,
+      "ethereum": 44
+    },
+    {
+      "node": 769,
+      "ethereum": 74
+    },
+    {
+      "node": 5,
+      "ethereum": 18
+    },
+    {
+      "node": 297,
+      "ethereum": 42
+    },
+    {
+      "node": 347,
+      "ethereum": 45
+    },
+    {
+      "node": 421,
+      "ethereum": 8
+    },
+    {
+      "node": 621,
+      "ethereum": 6
+    },
+    {
+      "node": 755,
+      "ethereum": 61
+    },
+    {
+      "node": 778,
+      "ethereum": 64
+    },
+    {
+      "node": 959,
+      "ethereum": 58
+    },
+    {
+      "node": 8,
+      "ethereum": 84
+    },
+    {
+      "node": 217,
+      "ethereum": 97
+    },
+    {
+      "node": 809,
+      "ethereum": 44
+    },
+    {
+      "node": 902,
+      "ethereum": 64
+    },
+    {
+      "node": 277,
+      "ethereum": 15
+    },
+    {
+      "node": 544,
+      "ethereum": 43
+    },
+    {
+      "node": 808,
+      "ethereum": 68
+    },
+    {
+      "node": 857,
+      "ethereum": 79
+    },
+    {
+      "node": 950,
+      "ethereum": 10
+    },
+    {
+      "node": 12,
+      "ethereum": 36
+    },
+    {
+      "node": 492,
+      "ethereum": 38
+    },
+    {
+      "node": 566,
+      "ethereum": 91
+    },
+    {
+      "node": 663,
+      "ethereum": 10
+    },
+    {
+      "node": 18,
+      "ethereum": 13
+    },
+    {
+      "node": 20,
+      "ethereum": 14
+    },
+    {
+      "node": 113,
+      "ethereum": 12
+    },
+    {
+      "node": 398,
+      "ethereum": 21
+    },
+    {
+      "node": 762,
+      "ethereum": 87
+    },
+    {
+      "node": 765,
+      "ethereum": 7
+    },
+    {
+      "node": 932,
+      "ethereum": 71
+    },
+    {
+      "node": 22,
+      "ethereum": 64
+    },
+    {
+      "node": 121,
+      "ethereum": 94
+    },
+    {
+      "node": 132,
+      "ethereum": 62
+    },
+    {
+      "node": 328,
+      "ethereum": 2
+    },
+    {
+      "node": 509,
+      "ethereum": 14
+    },
+    {
+      "node": 650,
+      "ethereum": 100
+    },
+    {
+      "node": 670,
+      "ethereum": 79
+    },
+    {
+      "node": 774,
+      "ethereum": 37
+    },
+    {
+      "node": 838,
+      "ethereum": 92
+    },
+    {
+      "node": 880,
+      "ethereum": 80
+    },
+    {
+      "node": 957,
+      "ethereum": 94
+    },
+    {
+      "node": 64,
+      "ethereum": 94
+    },
+    {
+      "node": 73,
+      "ethereum": 18
+    },
+    {
+      "node": 472,
+      "ethereum": 85
+    },
+    {
+      "node": 701,
+      "ethereum": 20
+    },
+    {
+      "node": 129,
+      "ethereum": 72
+    },
+    {
+      "node": 206,
+      "ethereum": 4
+    },
+    {
+      "node": 416,
+      "ethereum": 15
+    },
+    {
+      "node": 548,
+      "ethereum": 53
+    },
+    {
+      "node": 614,
+      "ethereum": 43
+    },
+    {
+      "node": 236,
+      "ethereum": 51
+    },
+    {
+      "node": 832,
+      "ethereum": 84
+    },
+    {
+      "node": 896,
+      "ethereum": 43
+    },
+    {
+      "node": 921,
+      "ethereum": 55
+    },
+    {
+      "node": 146,
+      "ethereum": 3
+    },
+    {
+      "node": 207,
+      "ethereum": 64
+    },
+    {
+      "node": 247,
+      "ethereum": 80
+    },
+    {
+      "node": 263,
+      "ethereum": 71
+    },
+    {
+      "node": 498,
+      "ethereum": 51
+    },
+    {
+      "node": 586,
+      "ethereum": 79
+    },
+    {
+      "node": 675,
+      "ethereum": 29
+    },
+    {
+      "node": 45,
+      "ethereum": 29
+    },
+    {
+      "node": 423,
+      "ethereum": 95
+    },
+    {
+      "node": 480,
+      "ethereum": 88
+    },
+    {
+      "node": 503,
+      "ethereum": 94
+    },
+    {
+      "node": 802,
+      "ethereum": 10
+    },
+    {
+      "node": 804,
+      "ethereum": 47
+    },
+    {
+      "node": 205,
+      "ethereum": 59
+    },
+    {
+      "node": 220,
+      "ethereum": 79
+    },
+    {
+      "node": 389,
+      "ethereum": 33
+    },
+    {
+      "node": 477,
+      "ethereum": 94
+    },
+    {
+      "node": 613,
+      "ethereum": 38
+    },
+    {
+      "node": 863,
+      "ethereum": 35
+    },
+    {
+      "node": 922,
+      "ethereum": 76
+    },
+    {
+      "node": 67,
+      "ethereum": 23
+    },
+    {
+      "node": 161,
+      "ethereum": 37
+    },
+    {
+      "node": 326,
+      "ethereum": 7
+    },
+    {
+      "node": 366,
+      "ethereum": 22
+    },
+    {
+      "node": 137,
+      "ethereum": 23
+    },
+    {
+      "node": 318,
+      "ethereum": 6
+    },
+    {
+      "node": 594,
+      "ethereum": 80
+    },
+    {
+      "node": 26,
+      "ethereum": 60
+    },
+    {
+      "node": 75,
+      "ethereum": 9
+    },
+    {
+      "node": 204,
+      "ethereum": 85
+    },
+    {
+      "node": 28,
+      "ethereum": 69
+    },
+    {
+      "node": 141,
+      "ethereum": 85
+    },
+    {
+      "node": 254,
+      "ethereum": 28
+    },
+    {
+      "node": 419,
+      "ethereum": 71
+    },
+    {
+      "node": 757,
+      "ethereum": 91
+    },
+    {
+      "node": 764,
+      "ethereum": 73
+    },
+    {
+      "node": 676,
+      "ethereum": 70
+    },
+    {
+      "node": 66,
+      "ethereum": 3
+    },
+    {
+      "node": 93,
+      "ethereum": 31
+    },
+    {
+      "node": 99,
+      "ethereum": 31
+    },
+    {
+      "node": 344,
+      "ethereum": 80
+    },
+    {
+      "node": 357,
+      "ethereum": 22
+    },
+    {
+      "node": 392,
+      "ethereum": 92
+    },
+    {
+      "node": 678,
+      "ethereum": 25
+    },
+    {
+      "node": 686,
+      "ethereum": 99
+    },
+    {
+      "node": 837,
+      "ethereum": 60
+    },
+    {
+      "node": 893,
+      "ethereum": 64
+    },
+    {
+      "node": 9,
+      "ethereum": 14
+    },
+    {
+      "node": 16,
+      "ethereum": 75
+    },
+    {
+      "node": 228,
+      "ethereum": 4
+    },
+    {
+      "node": 365,
+      "ethereum": 38
+    },
+    {
+      "node": 973,
+      "ethereum": 8
+    },
+    {
+      "node": 61,
+      "ethereum": 75
+    },
+    {
+      "node": 535,
+      "ethereum": 83
+    },
+    {
+      "node": 742,
+      "ethereum": 51
+    },
+    {
+      "node": 221,
+      "ethereum": 13
+    },
+    {
+      "node": 259,
+      "ethereum": 30
+    },
+    {
+      "node": 540,
+      "ethereum": 58
+    },
+    {
+      "node": 591,
+      "ethereum": 97
+    },
+    {
+      "node": 689,
+      "ethereum": 22
+    },
+    {
+      "node": 727,
+      "ethereum": 49
+    },
+    {
+      "node": 786,
+      "ethereum": 95
+    },
+    {
+      "node": 900,
+      "ethereum": 25
+    },
+    {
+      "node": 949,
+      "ethereum": 81
+    },
+    {
+      "node": 320,
+      "ethereum": 39
+    },
+    {
+      "node": 466,
+      "ethereum": 91
+    },
+    {
+      "node": 730,
+      "ethereum": 88
+    },
+    {
+      "node": 983,
+      "ethereum": 40
+    },
+    {
+      "node": 139,
+      "ethereum": 75
+    },
+    {
+      "node": 140,
+      "ethereum": 42
+    },
+    {
+      "node": 189,
+      "ethereum": 46
+    },
+    {
+      "node": 351,
+      "ethereum": 98
+    },
+    {
+      "node": 564,
+      "ethereum": 28
+    },
+    {
+      "node": 929,
+      "ethereum": 31
+    },
+    {
+      "node": 234,
+      "ethereum": 49
+    },
+    {
+      "node": 773,
+      "ethereum": 17
+    },
+    {
+      "node": 897,
+      "ethereum": 48
+    },
+    {
+      "node": 150,
+      "ethereum": 40
+    },
+    {
+      "node": 212,
+      "ethereum": 23
+    },
+    {
+      "node": 232,
+      "ethereum": 37
+    },
+    {
+      "node": 298,
+      "ethereum": 11
+    },
+    {
+      "node": 306,
+      "ethereum": 62
+    },
+    {
+      "node": 758,
+      "ethereum": 17
+    },
+    {
+      "node": 165,
+      "ethereum": 78
+    },
+    {
+      "node": 266,
+      "ethereum": 5
+    },
+    {
+      "node": 437,
+      "ethereum": 74
+    },
+    {
+      "node": 581,
+      "ethereum": 88
+    },
+    {
+      "node": 688,
+      "ethereum": 14
+    },
+    {
+      "node": 828,
+      "ethereum": 81
+    },
+    {
+      "node": 977,
+      "ethereum": 19
+    },
+    {
+      "node": 525,
+      "ethereum": 42
+    },
+    {
+      "node": 766,
+      "ethereum": 7
+    },
+    {
+      "node": 814,
+      "ethereum": 99
+    },
+    {
+      "node": 143,
+      "ethereum": 88
+    },
+    {
+      "node": 153,
+      "ethereum": 18
+    },
+    {
+      "node": 460,
+      "ethereum": 4
+    },
+    {
+      "node": 895,
+      "ethereum": 9
+    },
+    {
+      "node": 172,
+      "ethereum": 68
+    },
+    {
+      "node": 338,
+      "ethereum": 66
+    },
+    {
+      "node": 795,
+      "ethereum": 83
+    },
+    {
+      "node": 909,
+      "ethereum": 8
+    },
+    {
+      "node": 937,
+      "ethereum": 53
+    },
+    {
+      "node": 49,
+      "ethereum": 45
+    },
+    {
+      "node": 312,
+      "ethereum": 94
+    },
+    {
+      "node": 483,
+      "ethereum": 73
+    },
+    {
+      "node": 574,
+      "ethereum": 83
+    },
+    {
+      "node": 716,
+      "ethereum": 91
+    },
+    {
+      "node": 40,
+      "ethereum": 90
+    },
+    {
+      "node": 78,
+      "ethereum": 27
+    },
+    {
+      "node": 464,
+      "ethereum": 88
+    },
+    {
+      "node": 384,
+      "ethereum": 23
+    },
+    {
+      "node": 578,
+      "ethereum": 99
+    },
+    {
+      "node": 946,
+      "ethereum": 88
+    },
+    {
+      "node": 152,
+      "ethereum": 18
+    },
+    {
+      "node": 275,
+      "ethereum": 59
+    },
+    {
+      "node": 427,
+      "ethereum": 84
+    },
+    {
+      "node": 698,
+      "ethereum": 46
+    },
+    {
+      "node": 699,
+      "ethereum": 37
+    },
+    {
+      "node": 176,
+      "ethereum": 89
+    },
+    {
+      "node": 518,
+      "ethereum": 79
+    },
+    {
+      "node": 775,
+      "ethereum": 86
+    },
+    {
+      "node": 905,
+      "ethereum": 39
+    },
+    {
+      "node": 21,
+      "ethereum": 69
+    },
+    {
+      "node": 171,
+      "ethereum": 6
+    },
+    {
+      "node": 319,
+      "ethereum": 39
+    },
+    {
+      "node": 649,
+      "ethereum": 51
+    },
+    {
+      "node": 682,
+      "ethereum": 92
+    },
+    {
+      "node": 115,
+      "ethereum": 17
+    },
+    {
+      "node": 418,
+      "ethereum": 23
+    },
+    {
+      "node": 478,
+      "ethereum": 89
+    },
+    {
+      "node": 573,
+      "ethereum": 90
+    },
+    {
+      "node": 998,
+      "ethereum": 30
+    },
+    {
+      "node": 11,
+      "ethereum": 48
+    },
+    {
+      "node": 309,
+      "ethereum": 67
+    },
+    {
+      "node": 410,
+      "ethereum": 29
+    },
+    {
+      "node": 744,
+      "ethereum": 9
+    },
+    {
+      "node": 746,
+      "ethereum": 88
+    },
+    {
+      "node": 875,
+      "ethereum": 11
+    },
+    {
+      "node": 102,
+      "ethereum": 75
+    },
+    {
+      "node": 315,
+      "ethereum": 5
+    },
+    {
+      "node": 94,
+      "ethereum": 59
+    },
+    {
+      "node": 112,
+      "ethereum": 62
+    },
+    {
+      "node": 157,
+      "ethereum": 17
+    },
+    {
+      "node": 500,
+      "ethereum": 85
+    },
+    {
+      "node": 601,
+      "ethereum": 92
+    },
+    {
+      "node": 860,
+      "ethereum": 89
+    },
+    {
+      "node": 186,
+      "ethereum": 82
+    },
+    {
+      "node": 203,
+      "ethereum": 89
+    },
+    {
+      "node": 454,
+      "ethereum": 77
+    },
+    {
+      "node": 512,
+      "ethereum": 14
+    },
+    {
+      "node": 672,
+      "ethereum": 7
+    },
+    {
+      "node": 164,
+      "ethereum": 15
+    },
+    {
+      "node": 865,
+      "ethereum": 2
+    },
+    {
+      "node": 982,
+      "ethereum": 60
+    },
+    {
+      "node": 124,
+      "ethereum": 26
+    },
+    {
+      "node": 168,
+      "ethereum": 68
+    },
+    {
+      "node": 244,
+      "ethereum": 6
+    },
+    {
+      "node": 334,
+      "ethereum": 85
+    },
+    {
+      "node": 482,
+      "ethereum": 95
+    },
+    {
+      "node": 276,
+      "ethereum": 59
+    },
+    {
+      "node": 305,
+      "ethereum": 12
+    },
+    {
+      "node": 920,
+      "ethereum": 90
+    },
+    {
+      "node": 167,
+      "ethereum": 58
+    },
+    {
+      "node": 3,
+      "ethereum": 62
+    },
+    {
+      "node": 151,
+      "ethereum": 70
+    },
+    {
+      "node": 261,
+      "ethereum": 11
+    },
+    {
+      "node": 281,
+      "ethereum": 45
+    },
+    {
+      "node": 360,
+      "ethereum": 96
+    },
+    {
+      "node": 476,
+      "ethereum": 41
+    },
+    {
+      "node": 624,
+      "ethereum": 17
+    },
+    {
+      "node": 299,
+      "ethereum": 34
+    },
+    {
+      "node": 323,
+      "ethereum": 67
+    },
+    {
+      "node": 470,
+      "ethereum": 49
+    },
+    {
+      "node": 545,
+      "ethereum": 19
+    },
+    {
+      "node": 714,
+      "ethereum": 51
+    },
+    {
+      "node": 819,
+      "ethereum": 53
+    },
+    {
+      "node": 100,
+      "ethereum": 85
+    },
+    {
+      "node": 414,
+      "ethereum": 33
+    },
+    {
+      "node": 656,
+      "ethereum": 62
+    },
+    {
+      "node": 679,
+      "ethereum": 33
+    },
+    {
+      "node": 783,
+      "ethereum": 59
+    },
+    {
+      "node": 955,
+      "ethereum": 66
+    },
+    {
+      "node": 607,
+      "ethereum": 61
+    },
+    {
+      "node": 753,
+      "ethereum": 46
+    },
+    {
+      "node": 841,
+      "ethereum": 2
+    },
+    {
+      "node": 215,
+      "ethereum": 80
+    },
+    {
+      "node": 424,
+      "ethereum": 46
+    },
+    {
+      "node": 486,
+      "ethereum": 23
+    },
+    {
+      "node": 605,
+      "ethereum": 18
+    },
+    {
+      "node": 142,
+      "ethereum": 86
+    },
+    {
+      "node": 364,
+      "ethereum": 85
+    },
+    {
+      "node": 504,
+      "ethereum": 21
+    },
+    {
+      "node": 358,
+      "ethereum": 40
+    },
+    {
+      "node": 179,
+      "ethereum": 32
+    },
+    {
+      "node": 181,
+      "ethereum": 3
+    },
+    {
+      "node": 810,
+      "ethereum": 39
+    },
+    {
+      "node": 184,
+      "ethereum": 9
+    },
+    {
+      "node": 542,
+      "ethereum": 15
+    },
+    {
+      "node": 588,
+      "ethereum": 45
+    },
+    {
+      "node": 685,
+      "ethereum": 65
+    },
+    {
+      "node": 833,
+      "ethereum": 43
+    },
+    {
+      "node": 927,
+      "ethereum": 68
+    },
+    {
+      "node": 493,
+      "ethereum": 77
+    },
+    {
+      "node": 560,
+      "ethereum": 13
+    },
+    {
+      "node": 43,
+      "ethereum": 45
+    },
+    {
+      "node": 36,
+      "ethereum": 85
+    },
+    {
+      "node": 346,
+      "ethereum": 77
+    },
+    {
+      "node": 787,
+      "ethereum": 21
+    },
+    {
+      "node": 981,
+      "ethereum": 70
+    },
+    {
+      "node": 459,
+      "ethereum": 23
+    },
+    {
+      "node": 788,
+      "ethereum": 3
+    },
+    {
+      "node": 72,
+      "ethereum": 27
+    },
+    {
+      "node": 431,
+      "ethereum": 56
+    },
+    {
+      "node": 704,
+      "ethereum": 100
+    },
+    {
+      "node": 883,
+      "ethereum": 43
+    },
+    {
+      "node": 913,
+      "ethereum": 72
+    },
+    {
+      "node": 1,
+      "ethereum": 70
+    },
+    {
+      "node": 368,
+      "ethereum": 100
+    },
+    {
+      "node": 590,
+      "ethereum": 7
+    },
+    {
+      "node": 646,
+      "ethereum": 31
+    },
+    {
+      "node": 709,
+      "ethereum": 56
+    },
+    {
+      "node": 745,
+      "ethereum": 32
+    },
+    {
+      "node": 29,
+      "ethereum": 22
+    },
+    {
+      "node": 79,
+      "ethereum": 1
+    },
+    {
+      "node": 224,
+      "ethereum": 99
+    },
+    {
+      "node": 543,
+      "ethereum": 98
+    },
+    {
+      "node": 806,
+      "ethereum": 62
+    },
+    {
+      "node": 964,
+      "ethereum": 94
+    },
+    {
+      "node": 174,
+      "ethereum": 20
+    },
+    {
+      "node": 177,
+      "ethereum": 56
+    },
+    {
+      "node": 947,
+      "ethereum": 92
+    },
+    {
+      "node": 420,
+      "ethereum": 60
+    },
+    {
+      "node": 514,
+      "ethereum": 75
+    },
+    {
+      "node": 550,
+      "ethereum": 57
+    },
+    {
+      "node": 620,
+      "ethereum": 41
+    },
+    {
+      "node": 939,
+      "ethereum": 87
+    },
+    {
+      "node": 667,
+      "ethereum": 29
+    },
+    {
+      "node": 708,
+      "ethereum": 87
+    },
+    {
+      "node": 87,
+      "ethereum": 36
+    },
+    {
+      "node": 209,
+      "ethereum": 56
+    },
+    {
+      "node": 267,
+      "ethereum": 52
+    },
+    {
+      "node": 376,
+      "ethereum": 92
+    },
+    {
+      "node": 561,
+      "ethereum": 55
+    },
+    {
+      "node": 956,
+      "ethereum": 60
+    },
+    {
+      "node": 496,
+      "ethereum": 53
+    },
+    {
+      "node": 562,
+      "ethereum": 15
+    },
+    {
+      "node": 661,
+      "ethereum": 44
+    },
+    {
+      "node": 715,
+      "ethereum": 13
+    },
+    {
+      "node": 823,
+      "ethereum": 96
+    },
+    {
+      "node": 92,
+      "ethereum": 26
+    },
+    {
+      "node": 178,
+      "ethereum": 18
+    },
+    {
+      "node": 199,
+      "ethereum": 79
+    },
+    {
+      "node": 210,
+      "ethereum": 43
+    },
+    {
+      "node": 354,
+      "ethereum": 87
+    },
+    {
+      "node": 615,
+      "ethereum": 34
+    },
+    {
+      "node": 822,
+      "ethereum": 96
+    },
+    {
+      "node": 829,
+      "ethereum": 98
+    },
+    {
+      "node": 307,
+      "ethereum": 18
+    },
+    {
+      "node": 380,
+      "ethereum": 92
+    },
+    {
+      "node": 777,
+      "ethereum": 86
+    },
+    {
+      "node": 846,
+      "ethereum": 97
+    },
+    {
+      "node": 961,
+      "ethereum": 54
+    },
+    {
+      "node": 2,
+      "ethereum": 79
+    },
+    {
+      "node": 82,
+      "ethereum": 99
+    },
+    {
+      "node": 633,
+      "ethereum": 27
+    },
+    {
+      "node": 294,
+      "ethereum": 69
+    },
+    {
+      "node": 549,
+      "ethereum": 55
+    },
+    {
+      "node": 567,
+      "ethereum": 96
+    },
+    {
+      "node": 576,
+      "ethereum": 48
+    },
+    {
+      "node": 793,
+      "ethereum": 72
+    },
+    {
+      "node": 974,
+      "ethereum": 23
+    },
+    {
+      "node": 219,
+      "ethereum": 8
+    },
+    {
+      "node": 468,
+      "ethereum": 18
+    },
+    {
+      "node": 771,
+      "ethereum": 70
+    },
+    {
+      "node": 50,
+      "ethereum": 20
+    },
+    {
+      "node": 280,
+      "ethereum": 40
+    },
+    {
+      "node": 869,
+      "ethereum": 97
+    },
+    {
+      "node": 252,
+      "ethereum": 30
+    },
+    {
+      "node": 386,
+      "ethereum": 80
+    },
+    {
+      "node": 696,
+      "ethereum": 56
+    },
+    {
+      "node": 834,
+      "ethereum": 28
+    },
+    {
+      "node": 697,
+      "ethereum": 47
+    },
+    {
+      "node": 160,
+      "ethereum": 9
+    },
+    {
+      "node": 241,
+      "ethereum": 6
+    },
+    {
+      "node": 673,
+      "ethereum": 100
+    },
+    {
+      "node": 827,
+      "ethereum": 75
+    },
+    {
+      "node": 110,
+      "ethereum": 47
+    },
+    {
+      "node": 214,
+      "ethereum": 77
+    },
+    {
+      "node": 408,
+      "ethereum": 70
+    },
+    {
+      "node": 501,
+      "ethereum": 83
+    },
+    {
+      "node": 915,
+      "ethereum": 56
+    },
+    {
+      "node": 925,
+      "ethereum": 25
+    },
+    {
+      "node": 993,
+      "ethereum": 37
+    },
+    {
+      "node": 6,
+      "ethereum": 29
+    },
+    {
+      "node": 273,
+      "ethereum": 16
+    },
+    {
+      "node": 533,
+      "ethereum": 33
+    },
+    {
+      "node": 722,
+      "ethereum": 23
+    },
+    {
+      "node": 135,
+      "ethereum": 62
+    },
+    {
+      "node": 303,
+      "ethereum": 52
+    },
+    {
+      "node": 348,
+      "ethereum": 76
+    },
+    {
+      "node": 455,
+      "ethereum": 62
+    },
+    {
+      "node": 636,
+      "ethereum": 50
+    },
+    {
+      "node": 972,
+      "ethereum": 50
+    },
+    {
+      "node": 123,
+      "ethereum": 14
+    },
+    {
+      "node": 169,
+      "ethereum": 87
+    },
+    {
+      "node": 589,
+      "ethereum": 92
+    },
+    {
+      "node": 631,
+      "ethereum": 96
+    },
+    {
+      "node": 884,
+      "ethereum": 12
+    },
+    {
+      "node": 59,
+      "ethereum": 21
+    },
+    {
+      "node": 378,
+      "ethereum": 44
+    },
+    {
+      "node": 409,
+      "ethereum": 92
+    },
+    {
+      "node": 628,
+      "ethereum": 11
+    },
+    {
+      "node": 754,
+      "ethereum": 23
+    },
+    {
+      "node": 965,
+      "ethereum": 32
+    },
+    {
+      "node": 98,
+      "ethereum": 36
+    },
+    {
+      "node": 233,
+      "ethereum": 11
+    },
+    {
+      "node": 394,
+      "ethereum": 35
+    },
+    {
+      "node": 598,
+      "ethereum": 51
+    },
+    {
+      "node": 65,
+      "ethereum": 41
+    },
+    {
+      "node": 162,
+      "ethereum": 93
+    },
+    {
+      "node": 451,
+      "ethereum": 32
+    },
+    {
+      "node": 638,
+      "ethereum": 85
+    },
+    {
+      "node": 815,
+      "ethereum": 2
+    },
+    {
+      "node": 575,
+      "ethereum": 10
+    },
+    {
+      "node": 718,
+      "ethereum": 91
+    },
+    {
+      "node": 290,
+      "ethereum": 86
+    },
+    {
+      "node": 332,
+      "ethereum": 23
+    },
+    {
+      "node": 644,
+      "ethereum": 87
+    },
+    {
+      "node": 653,
+      "ethereum": 97
+    },
+    {
+      "node": 751,
+      "ethereum": 97
+    },
+    {
+      "node": 812,
+      "ethereum": 65
+    },
+    {
+      "node": 847,
+      "ethereum": 67
+    },
+    {
+      "node": 231,
+      "ethereum": 34
+    },
+    {
+      "node": 361,
+      "ethereum": 65
+    },
+    {
+      "node": 583,
+      "ethereum": 89
+    },
+    {
+      "node": 803,
+      "ethereum": 50
+    },
+    {
+      "node": 954,
+      "ethereum": 72
+    },
+    {
+      "node": 148,
+      "ethereum": 15
+    },
+    {
+      "node": 316,
+      "ethereum": 53
+    },
+    {
+      "node": 403,
+      "ethereum": 53
+    },
+    {
+      "node": 432,
+      "ethereum": 94
+    },
+    {
+      "node": 440,
+      "ethereum": 81
+    },
+    {
+      "node": 635,
+      "ethereum": 22
+    },
+    {
+      "node": 641,
+      "ethereum": 43
+    },
+    {
+      "node": 966,
+      "ethereum": 2
+    },
+    {
+      "node": 54,
+      "ethereum": 42
+    },
+    {
+      "node": 322,
+      "ethereum": 35
+    },
+    {
+      "node": 521,
+      "ethereum": 22
+    },
+    {
+      "node": 396,
+      "ethereum": 11
+    },
+    {
+      "node": 800,
+      "ethereum": 65
+    },
+    {
+      "node": 664,
+      "ethereum": 90
+    },
+    {
+      "node": 782,
+      "ethereum": 2
+    },
+    {
+      "node": 293,
+      "ethereum": 61
+    },
+    {
+      "node": 852,
+      "ethereum": 20
+    },
+    {
+      "node": 187,
+      "ethereum": 97
+    },
+    {
+      "node": 948,
+      "ethereum": 10
+    },
+    {
+      "node": 109,
+      "ethereum": 20
+    },
+    {
+      "node": 200,
+      "ethereum": 34
+    },
+    {
+      "node": 434,
+      "ethereum": 20
+    },
+    {
+      "node": 95,
+      "ethereum": 57
+    },
+    {
+      "node": 218,
+      "ethereum": 19
+    },
+    {
+      "node": 301,
+      "ethereum": 46
+    },
+    {
+      "node": 487,
+      "ethereum": 6
+    },
+    {
+      "node": 251,
+      "ethereum": 32
+    },
+    {
+      "node": 536,
+      "ethereum": 83
+    },
+    {
+      "node": 639,
+      "ethereum": 37
+    },
+    {
+      "node": 397,
+      "ethereum": 94
+    },
+    {
+      "node": 489,
+      "ethereum": 79
+    },
+    {
+      "node": 831,
+      "ethereum": 95
+    },
+    {
+      "node": 370,
+      "ethereum": 85
+    },
+    {
+      "node": 405,
+      "ethereum": 91
+    },
+    {
+      "node": 444,
+      "ethereum": 81
+    },
+    {
+      "node": 625,
+      "ethereum": 45
+    },
+    {
+      "node": 874,
+      "ethereum": 64
+    },
+    {
+      "node": 33,
+      "ethereum": 43
+    },
+    {
+      "node": 570,
+      "ethereum": 62
+    },
+    {
+      "node": 271,
+      "ethereum": 84
+    },
+    {
+      "node": 618,
+      "ethereum": 64
+    },
+    {
+      "node": 912,
+      "ethereum": 24
+    },
+    {
+      "node": 44,
+      "ethereum": 100
+    },
+    {
+      "node": 249,
+      "ethereum": 22
+    },
+    {
+      "node": 597,
+      "ethereum": 61
+    },
+    {
+      "node": 710,
+      "ethereum": 56
+    },
+    {
+      "node": 532,
+      "ethereum": 80
+    },
+    {
+      "node": 356,
+      "ethereum": 43
+    },
+    {
+      "node": 407,
+      "ethereum": 37
+    },
+    {
+      "node": 430,
+      "ethereum": 45
+    },
+    {
+      "node": 457,
+      "ethereum": 8
+    },
+    {
+      "node": 645,
+      "ethereum": 84
+    },
+    {
+      "node": 367,
+      "ethereum": 52
+    },
+    {
+      "node": 435,
+      "ethereum": 43
+    },
+    {
+      "node": 739,
+      "ethereum": 10
+    },
+    {
+      "node": 90,
+      "ethereum": 56
+    },
+    {
+      "node": 517,
+      "ethereum": 15
+    },
+    {
+      "node": 700,
+      "ethereum": 34
+    },
+    {
+      "node": 858,
+      "ethereum": 43
+    },
+    {
+      "node": 660,
+      "ethereum": 39
+    },
+    {
+      "node": 917,
+      "ethereum": 96
+    },
+    {
+      "node": 116,
+      "ethereum": 87
+    },
+    {
+      "node": 262,
+      "ethereum": 26
+    },
+    {
+      "node": 278,
+      "ethereum": 32
+    },
+    {
+      "node": 882,
+      "ethereum": 12
+    },
+    {
+      "node": 516,
+      "ethereum": 19
+    },
+    {
+      "node": 835,
+      "ethereum": 7
+    },
+    {
+      "node": 443,
+      "ethereum": 79
+    },
+    {
+      "node": 725,
+      "ethereum": 65
+    },
+    {
+      "node": 25,
+      "ethereum": 41
+    },
+    {
+      "node": 180,
+      "ethereum": 8
+    },
+    {
+      "node": 327,
+      "ethereum": 52
+    },
+    {
+      "node": 343,
+      "ethereum": 73
+    },
+    {
+      "node": 723,
+      "ethereum": 29
+    },
+    {
+      "node": 938,
+      "ethereum": 6
+    },
+    {
+      "node": 17,
+      "ethereum": 97
+    },
+    {
+      "node": 622,
+      "ethereum": 14
+    },
+    {
+      "node": 283,
+      "ethereum": 81
+    },
+    {
+      "node": 760,
+      "ethereum": 56
+    },
+    {
+      "node": 230,
+      "ethereum": 99
+    },
+    {
+      "node": 465,
+      "ethereum": 50
+    },
+    {
+      "node": 32,
+      "ethereum": 80
+    },
+    {
+      "node": 867,
+      "ethereum": 51
+    },
+    {
+      "node": 511,
+      "ethereum": 31
+    },
+    {
+      "node": 908,
+      "ethereum": 79
+    },
+    {
+      "node": 117,
+      "ethereum": 51
+    },
+    {
+      "node": 629,
+      "ethereum": 84
+    },
+    {
+      "node": 940,
+      "ethereum": 94
+    },
+    {
+      "node": 314,
+      "ethereum": 9
+    },
+    {
+      "node": 563,
+      "ethereum": 67
+    },
+    {
+      "node": 849,
+      "ethereum": 1
+    },
+    {
+      "node": 907,
+      "ethereum": 36
+    },
+    {
+      "node": 55,
+      "ethereum": 82
+    },
+    {
+      "node": 377,
+      "ethereum": 3
+    },
+    {
+      "node": 546,
+      "ethereum": 79
+    },
+    {
+      "node": 976,
+      "ethereum": 55
+    },
+    {
+      "node": 71,
+      "ethereum": 73
+    },
+    {
+      "node": 211,
+      "ethereum": 63
+    },
+    {
+      "node": 329,
+      "ethereum": 13
+    },
+    {
+      "node": 634,
+      "ethereum": 55
+    },
+    {
+      "node": 373,
+      "ethereum": 8
+    },
+    {
+      "node": 652,
+      "ethereum": 24
+    },
+    {
+      "node": 770,
+      "ethereum": 20
+    },
+    {
+      "node": 801,
+      "ethereum": 12
+    },
+    {
+      "node": 76,
+      "ethereum": 4
+    },
+    {
+      "node": 495,
+      "ethereum": 70
+    },
+    {
+      "node": 531,
+      "ethereum": 40
+    },
+    {
+      "node": 658,
+      "ethereum": 17
+    },
+    {
+      "node": 988,
+      "ethereum": 28
+    },
+    {
+      "node": 448,
+      "ethereum": 55
+    },
+    {
+      "node": 452,
+      "ethereum": 51
+    },
+    {
+      "node": 901,
+      "ethereum": 45
+    },
+    {
+      "node": 519,
+      "ethereum": 29
+    },
+    {
+      "node": 632,
+      "ethereum": 86
+    },
+    {
+      "node": 843,
+      "ethereum": 35
+    },
+    {
+      "node": 654,
+      "ethereum": 56
+    },
+    {
+      "node": 41,
+      "ethereum": 100
+    },
+    {
+      "node": 388,
+      "ethereum": 29
+    },
+    {
+      "node": 144,
+      "ethereum": 51
+    },
+    {
+      "node": 337,
+      "ethereum": 65
+    },
+    {
+      "node": 707,
+      "ethereum": 1
+    },
+    {
+      "node": 39,
+      "ethereum": 41
+    },
+    {
+      "node": 86,
+      "ethereum": 84
+    },
+    {
+      "node": 213,
+      "ethereum": 91
+    },
+    {
+      "node": 288,
+      "ethereum": 25
+    },
+    {
+      "node": 317,
+      "ethereum": 70
+    },
+    {
+      "node": 413,
+      "ethereum": 99
+    },
+    {
+      "node": 963,
+      "ethereum": 86
+    },
+    {
+      "node": 515,
+      "ethereum": 6
+    },
+    {
+      "node": 336,
+      "ethereum": 29
+    },
+    {
+      "node": 647,
+      "ethereum": 63
+    },
+    {
+      "node": 27,
+      "ethereum": 89
+    },
+    {
+      "node": 202,
+      "ethereum": 27
+    },
+    {
+      "node": 349,
+      "ethereum": 98
+    },
+    {
+      "node": 372,
+      "ethereum": 73
+    },
+    {
+      "node": 507,
+      "ethereum": 2
+    },
+    {
+      "node": 324,
+      "ethereum": 21
+    },
+    {
+      "node": 885,
+      "ethereum": 72
+    },
+    {
+      "node": 886,
+      "ethereum": 43
+    },
+    {
+      "node": 433,
+      "ethereum": 76
+    },
+    {
+      "node": 738,
+      "ethereum": 98
+    },
+    {
+      "node": 393,
+      "ethereum": 52
+    },
+    {
+      "node": 15,
+      "ethereum": 92
+    },
+    {
+      "node": 798,
+      "ethereum": 90
+    },
+    {
+      "node": 859,
+      "ethereum": 18
+    },
+    {
+      "node": 105,
+      "ethereum": 47
+    },
+    {
+      "node": 265,
+      "ethereum": 91
+    },
+    {
+      "node": 450,
+      "ethereum": 69
+    },
+    {
+      "node": 724,
+      "ethereum": 89
+    },
+    {
+      "node": 796,
+      "ethereum": 5
+    },
+    {
+      "node": 246,
+      "ethereum": 40
+    },
+    {
+      "node": 918,
+      "ethereum": 12
+    },
+    {
+      "node": 923,
+      "ethereum": 47
+    },
+    {
+      "node": 19,
+      "ethereum": 58
+    },
+    {
+      "node": 131,
+      "ethereum": 36
+    },
+    {
+      "node": 579,
+      "ethereum": 1
+    },
+    {
+      "node": 111,
+      "ethereum": 37
+    },
+    {
+      "node": 526,
+      "ethereum": 10
+    },
+    {
+      "node": 891,
+      "ethereum": 14
+    },
+    {
+      "node": 741,
+      "ethereum": 54
+    },
+    {
+      "node": 120,
+      "ethereum": 67
+    },
+    {
+      "node": 400,
+      "ethereum": 66
+    },
+    {
+      "node": 412,
+      "ethereum": 21
+    },
+    {
+      "node": 711,
+      "ethereum": 47
+    },
+    {
+      "node": 713,
+      "ethereum": 25
+    },
+    {
+      "node": 524,
+      "ethereum": 73
+    },
+    {
+      "node": 577,
+      "ethereum": 48
+    },
+    {
+      "node": 243,
+      "ethereum": 6
+    },
+    {
+      "node": 422,
+      "ethereum": 68
+    },
+    {
+      "node": 445,
+      "ethereum": 99
+    },
+    {
+      "node": 999,
+      "ethereum": 41
+    },
+    {
+      "node": 772,
+      "ethereum": 37
+    },
+    {
+      "node": 363,
+      "ethereum": 73
+    },
+    {
+      "node": 681,
+      "ethereum": 80
+    },
+    {
+      "node": 133,
+      "ethereum": 35
+    },
+    {
+      "node": 185,
+      "ethereum": 99
+    },
+    {
+      "node": 481,
+      "ethereum": 13
+    },
+    {
+      "node": 892,
+      "ethereum": 24
+    },
+    {
+      "node": 287,
+      "ethereum": 87
+    },
+    {
+      "node": 453,
+      "ethereum": 76
+    },
+    {
+      "node": 390,
+      "ethereum": 57
+    },
+    {
+      "node": 569,
+      "ethereum": 29
+    },
+    {
+      "node": 890,
+      "ethereum": 22
+    },
+    {
+      "node": 558,
+      "ethereum": 18
+    },
+    {
+      "node": 156,
+      "ethereum": 42
+    },
+    {
+      "node": 494,
+      "ethereum": 87
+    },
+    {
+      "node": 375,
+      "ethereum": 69
+    },
+    {
+      "node": 876,
+      "ethereum": 60
+    },
+    {
+      "node": 926,
+      "ethereum": 31
+    },
+    {
+      "node": 248,
+      "ethereum": 42
+    },
+    {
+      "node": 257,
+      "ethereum": 76
+    },
+    {
+      "node": 820,
+      "ethereum": 70
+    },
+    {
+      "node": 51,
+      "ethereum": 94
+    },
+    {
+      "node": 237,
+      "ethereum": 99
+    },
+    {
+      "node": 125,
+      "ethereum": 84
+    },
+    {
+      "node": 538,
+      "ethereum": 96
+    },
+    {
+      "node": 130,
+      "ethereum": 81
+    },
+    {
+      "node": 651,
+      "ethereum": 34
+    },
+    {
+      "node": 763,
+      "ethereum": 51
+    },
+    {
+      "node": 13,
+      "ethereum": 50
+    },
+    {
+      "node": 623,
+      "ethereum": 81
+    },
+    {
+      "node": 791,
+      "ethereum": 50
+    },
+    {
+      "node": 851,
+      "ethereum": 98
+    },
+    {
+      "node": 931,
+      "ethereum": 84
+    },
+    {
+      "node": 114,
+      "ethereum": 78
+    },
+    {
+      "node": 136,
+      "ethereum": 8
+    },
+    {
+      "node": 191,
+      "ethereum": 29
+    },
+    {
+      "node": 341,
+      "ethereum": 57
+    },
+    {
+      "node": 371,
+      "ethereum": 14
+    },
+    {
+      "node": 474,
+      "ethereum": 57
+    },
+    {
+      "node": 958,
+      "ethereum": 93
+    },
+    {
+      "node": 655,
+      "ethereum": 39
+    },
+    {
+      "node": 906,
+      "ethereum": 87
+    },
+    {
+      "node": 659,
+      "ethereum": 71
+    },
+    {
+      "node": 88,
+      "ethereum": 48
+    },
+    {
+      "node": 609,
+      "ethereum": 27
+    },
+    {
+      "node": 887,
+      "ethereum": 69
+    },
+    {
+      "node": 952,
+      "ethereum": 38
+    },
+    {
+      "node": 395,
+      "ethereum": 73
+    },
+    {
+      "node": 692,
+      "ethereum": 50
+    },
+    {
+      "node": 128,
+      "ethereum": 79
+    },
+    {
+      "node": 627,
+      "ethereum": 92
+    },
+    {
+      "node": 238,
+      "ethereum": 4
+    },
+    {
+      "node": 565,
+      "ethereum": 35
+    },
+    {
+      "node": 683,
+      "ethereum": 81
+    },
+    {
+      "node": 928,
+      "ethereum": 72
+    },
+    {
+      "node": 173,
+      "ethereum": 26
+    },
+    {
+      "node": 665,
+      "ethereum": 83
+    },
+    {
+      "node": 776,
+      "ethereum": 55
+    },
+    {
+      "node": 807,
+      "ethereum": 22
+    },
+    {
+      "node": 606,
+      "ethereum": 83
+    },
+    {
+      "node": 245,
+      "ethereum": 75
+    },
+    {
+      "node": 643,
+      "ethereum": 27
+    },
+    {
+      "node": 826,
+      "ethereum": 47
+    },
+    {
+      "node": 853,
+      "ethereum": 45
+    },
+    {
+      "node": 898,
+      "ethereum": 56
+    },
+    {
+      "node": 126,
+      "ethereum": 1
+    },
+    {
+      "node": 911,
+      "ethereum": 76
+    },
+    {
+      "node": 534,
+      "ethereum": 16
+    },
+    {
+      "node": 56,
+      "ethereum": 67
+    },
+    {
+      "node": 997,
+      "ethereum": 67
+    },
+    {
+      "node": 856,
+      "ethereum": 17
+    },
+    {
+      "node": 794,
+      "ethereum": 84
+    },
+    {
+      "node": 813,
+      "ethereum": 28
+    },
+    {
+      "node": 285,
+      "ethereum": 41
+    },
+    {
+      "node": 790,
+      "ethereum": 55
+    },
+    {
+      "node": 712,
+      "ethereum": 93
+    },
+    {
+      "node": 657,
+      "ethereum": 33
+    },
+    {
+      "node": 750,
+      "ethereum": 9
+    },
+    {
+      "node": 797,
+      "ethereum": 18
+    },
+    {
+      "node": 971,
+      "ethereum": 28
+    },
+    {
+      "node": 648,
+      "ethereum": 82
+    },
+    {
+      "node": 38,
+      "ethereum": 37
+    },
+    {
+      "node": 469,
+      "ethereum": 4
+    },
+    {
+      "node": 990,
+      "ethereum": 60
+    },
+    {
+      "node": 291,
+      "ethereum": 57
+    },
+    {
+      "node": 63,
+      "ethereum": 43
+    },
+    {
+      "node": 825,
+      "ethereum": 11
+    },
+    {
+      "node": 201,
+      "ethereum": 90
+    },
+    {
+      "node": 406,
+      "ethereum": 51
+    },
+    {
+      "node": 864,
+      "ethereum": 19
+    },
+    {
+      "node": 945,
+      "ethereum": 87
+    },
+    {
+      "node": 706,
+      "ethereum": 6
+    },
+    {
+      "node": 30,
+      "ethereum": 26
+    },
+    {
+      "node": 134,
+      "ethereum": 42
+    },
+    {
+      "node": 978,
+      "ethereum": 66
+    },
+    {
+      "node": 484,
+      "ethereum": 3
+    },
+    {
+      "node": 584,
+      "ethereum": 52
+    },
+    {
+      "node": 616,
+      "ethereum": 87
+    },
+    {
+      "node": 877,
+      "ethereum": 17
+    },
+    {
+      "node": 192,
+      "ethereum": 8
+    },
+    {
+      "node": 381,
+      "ethereum": 66
+    },
+    {
+      "node": 222,
+      "ethereum": 35
+    },
+    {
+      "node": 844,
+      "ethereum": 64
+    },
+    {
+      "node": 118,
+      "ethereum": 70
+    },
+    {
+      "node": 391,
+      "ethereum": 6
+    },
+    {
+      "node": 74,
+      "ethereum": 95
+    },
+    {
+      "node": 691,
+      "ethereum": 83
+    },
+    {
+      "node": 669,
+      "ethereum": 68
+    },
+    {
+      "node": 551,
+      "ethereum": 7
+    },
+    {
+      "node": 355,
+      "ethereum": 99
+    },
+    {
+      "node": 399,
+      "ethereum": 21
+    },
+    {
+      "node": 694,
+      "ethereum": 49
+    },
+    {
+      "node": 732,
+      "ethereum": 72
+    },
+    {
+      "node": 612,
+      "ethereum": 39
+    },
+    {
+      "node": 855,
+      "ethereum": 71
+    },
+    {
+      "node": 286,
+      "ethereum": 39
+    },
+    {
+      "node": 941,
+      "ethereum": 40
+    },
+    {
+      "node": 402,
+      "ethereum": 23
+    },
+    {
+      "node": 506,
+      "ethereum": 16
+    },
+    {
+      "node": 640,
+      "ethereum": 7
+    },
+    {
+      "node": 767,
+      "ethereum": 80
+    },
+    {
+      "node": 68,
+      "ethereum": 89
+    },
+    {
+      "node": 868,
+      "ethereum": 18
+    },
+    {
+      "node": 936,
+      "ethereum": 33
+    },
+    {
+      "node": 57,
+      "ethereum": 27
+    },
+    {
+      "node": 138,
+      "ethereum": 57
+    },
+    {
+      "node": 321,
+      "ethereum": 3
+    },
+    {
+      "node": 145,
+      "ethereum": 81
+    },
+    {
+      "node": 619,
+      "ethereum": 50
+    },
+    {
+      "node": 559,
+      "ethereum": 62
+    },
+    {
+      "node": 69,
+      "ethereum": 63
+    },
+    {
+      "node": 702,
+      "ethereum": 46
+    },
+    {
+      "node": 872,
+      "ethereum": 35
+    },
+    {
+      "node": 935,
+      "ethereum": 94
+    },
+    {
+      "node": 426,
+      "ethereum": 41
+    },
+    {
+      "node": 264,
+      "ethereum": 80
+    },
+    {
+      "node": 268,
+      "ethereum": 90
+    },
+    {
+      "node": 350,
+      "ethereum": 15
+    },
+    {
+      "node": 80,
+      "ethereum": 39
+    },
+    {
+      "node": 508,
+      "ethereum": 86
+    },
+    {
+      "node": 255,
+      "ethereum": 40
+    },
+    {
+      "node": 642,
+      "ethereum": 74
+    },
+    {
+      "node": 47,
+      "ethereum": 27
+    },
+    {
+      "node": 58,
+      "ethereum": 22
+    },
+    {
+      "node": 383,
+      "ethereum": 30
+    },
+    {
+      "node": 48,
+      "ethereum": 38
+    },
+    {
+      "node": 747,
+      "ethereum": 25
+    },
+    {
+      "node": 502,
+      "ethereum": 34
+    },
+    {
+      "node": 528,
+      "ethereum": 74
+    },
+    {
+      "node": 547,
+      "ethereum": 46
+    },
+    {
+      "node": 260,
+      "ethereum": 31
+    },
+    {
+      "node": 340,
+      "ethereum": 75
+    },
+    {
+      "node": 491,
+      "ethereum": 73
+    },
+    {
+      "node": 717,
+      "ethereum": 47
+    },
+    {
+      "node": 554,
+      "ethereum": 30
+    },
+    {
+      "node": 269,
+      "ethereum": 99
+    },
+    {
+      "node": 992,
+      "ethereum": 88
+    },
+    {
+      "node": 979,
+      "ethereum": 6
+    },
+    {
+      "node": 842,
+      "ethereum": 97
+    },
+    {
+      "node": 46,
+      "ethereum": 79
+    },
+    {
+      "node": 166,
+      "ethereum": 90
+    },
+    {
+      "node": 14,
+      "ethereum": 58
+    },
+    {
+      "node": 968,
+      "ethereum": 46
+    },
+    {
+      "node": 854,
+      "ethereum": 72
+    },
+    {
+      "node": 894,
+      "ethereum": 59
+    },
+    {
+      "node": 53,
+      "ethereum": 19
+    },
+    {
+      "node": 333,
+      "ethereum": 28
+    },
+    {
+      "node": 194,
+      "ethereum": 28
+    },
+    {
+      "node": 295,
+      "ethereum": 2
+    },
+    {
+      "node": 684,
+      "ethereum": 75
+    },
+    {
+      "node": 728,
+      "ethereum": 62
+    },
+    {
+      "node": 308,
+      "ethereum": 27
+    },
+    {
+      "node": 969,
+      "ethereum": 76
+    },
+    {
+      "node": 473,
+      "ethereum": 3
+    },
+    {
+      "node": 96,
+      "ethereum": 7
+    },
+    {
+      "node": 830,
+      "ethereum": 90
+    },
+    {
+      "node": 975,
+      "ethereum": 90
+    },
+    {
+      "node": 401,
+      "ethereum": 94
+    },
+    {
+      "node": 274,
+      "ethereum": 92
+    },
+    {
+      "node": 296,
+      "ethereum": 9
+    },
+    {
+      "node": 428,
+      "ethereum": 11
+    },
+    {
+      "node": 866,
+      "ethereum": 92
+    },
+    {
+      "node": 270,
+      "ethereum": 82
+    },
+    {
+      "node": 943,
+      "ethereum": 50
+    },
+    {
+      "node": 154,
+      "ethereum": 5
+    },
+    {
+      "node": 987,
+      "ethereum": 56
+    },
+    {
+      "node": 726,
+      "ethereum": 99
+    },
+    {
+      "node": 382,
+      "ethereum": 20
+    },
+    {
+      "node": 748,
+      "ethereum": 90
+    },
+    {
+      "node": 862,
+      "ethereum": 77
+    },
+    {
+      "node": 175,
+      "ethereum": 28
+    },
+    {
+      "node": 229,
+      "ethereum": 94
+    },
+    {
+      "node": 471,
+      "ethereum": 38
+    },
+    {
+      "node": 352,
+      "ethereum": 30
+    },
+    {
+      "node": 155,
+      "ethereum": 94
+    },
+    {
+      "node": 415,
+      "ethereum": 21
+    },
+    {
+      "node": 861,
+      "ethereum": 17
+    },
+    {
+      "node": 888,
+      "ethereum": 100
+    },
+    {
+      "node": 325,
+      "ethereum": 27
+    },
+    {
+      "node": 666,
+      "ethereum": 73
+    },
+    {
+      "node": 596,
+      "ethereum": 27
+    },
+    {
+      "node": 919,
+      "ethereum": 17
+    },
+    {
+      "node": 836,
+      "ethereum": 91
+    },
+    {
+      "node": 602,
+      "ethereum": 28
+    },
+    {
+      "node": 250,
+      "ethereum": 46
+    },
+    {
+      "node": 821,
+      "ethereum": 41
+    },
+    {
+      "node": 449,
+      "ethereum": 91
+    },
+    {
+      "node": 677,
+      "ethereum": 86
+    },
+    {
+      "node": 374,
+      "ethereum": 35
+    },
+    {
+      "node": 593,
+      "ethereum": 38
+    },
+    {
+      "node": 385,
+      "ethereum": 59
+    },
+    {
+      "node": 522,
+      "ethereum": 78
+    },
+    {
+      "node": 792,
+      "ethereum": 67
+    },
+    {
+      "node": 585,
+      "ethereum": 36
+    },
+    {
+      "node": 930,
+      "ethereum": 69
+    },
+    {
+      "node": 904,
+      "ethereum": 2
+    },
+    {
+      "node": 617,
+      "ethereum": 85
+    },
+    {
+      "node": 353,
+      "ethereum": 66
+    },
+    {
+      "node": 780,
+      "ethereum": 90
+    },
+    {
+      "node": 108,
+      "ethereum": 16
+    },
+    {
+      "node": 568,
+      "ethereum": 97
+    },
+    {
+      "node": 779,
+      "ethereum": 49
+    },
+    {
+      "node": 552,
+      "ethereum": 92
+    },
+    {
+      "node": 903,
+      "ethereum": 16
+    },
+    {
+      "node": 37,
+      "ethereum": 27
+    },
+    {
+      "node": 680,
+      "ethereum": 32
+    },
+    {
+      "node": 805,
+      "ethereum": 68
+    },
+    {
+      "node": 159,
+      "ethereum": 99
+    },
+    {
+      "node": 456,
+      "ethereum": 11
+    },
+    {
+      "node": 986,
+      "ethereum": 87
+    },
+    {
+      "node": 737,
+      "ethereum": 76
+    },
+    {
+      "node": 475,
+      "ethereum": 2
+    },
+    {
+      "node": 490,
+      "ethereum": 83
+    },
+    {
+      "node": 97,
+      "ethereum": 68
+    },
+    {
+      "node": 235,
+      "ethereum": 100
+    },
+    {
+      "node": 436,
+      "ethereum": 49
+    },
+    {
+      "node": 379,
+      "ethereum": 29
+    },
+    {
+      "node": 70,
+      "ethereum": 18
+    },
+    {
+      "node": 985,
+      "ethereum": 56
+    },
+    {
+      "node": 411,
+      "ethereum": 85
+    },
+    {
+      "node": 539,
+      "ethereum": 47
+    },
+    {
+      "node": 761,
+      "ethereum": 48
+    },
+    {
+      "node": 197,
+      "ethereum": 14
+    },
+    {
+      "node": 467,
+      "ethereum": 31
+    },
+    {
+      "node": 520,
+      "ethereum": 74
+    },
+    {
+      "node": 10,
+      "ethereum": 55
+    },
+    {
+      "node": 499,
+      "ethereum": 72
+    },
+    {
+      "node": 485,
+      "ethereum": 98
+    },
+    {
+      "node": 571,
+      "ethereum": 77
+    },
+    {
+      "node": 240,
+      "ethereum": 11
+    },
+    {
+      "node": 158,
+      "ethereum": 2
+    },
+    {
+      "node": 785,
+      "ethereum": 22
+    },
+    {
+      "node": 962,
+      "ethereum": 83
+    },
+    {
+      "node": 513,
+      "ethereum": 13
+    },
+    {
+      "node": 289,
+      "ethereum": 80
+    },
+    {
+      "node": 873,
+      "ethereum": 89
+    },
+    {
+      "node": 438,
+      "ethereum": 23
+    },
+    {
+      "node": 541,
+      "ethereum": 87
+    },
+    {
+      "node": 572,
+      "ethereum": 44
+    },
+    {
+      "node": 662,
+      "ethereum": 77
+    },
+    {
+      "node": 313,
+      "ethereum": 61
+    },
+    {
+      "node": 77,
+      "ethereum": 26
+    },
+    {
+      "node": 967,
+      "ethereum": 61
+    },
+    {
+      "node": 127,
+      "ethereum": 31
+    },
+    {
+      "node": 934,
+      "ethereum": 30
+    },
+    {
+      "node": 304,
+      "ethereum": 69
+    },
+    {
+      "node": 899,
+      "ethereum": 77
+    }
+  ]
+}
